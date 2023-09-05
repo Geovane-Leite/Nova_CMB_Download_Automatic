@@ -1,0 +1,5 @@
+Nome: SEU_CPF
+Senha: SUA_SENHA
+
+dir_tasy_import_a550: C:\Users\ptu\a550
+dir_tasy_import_a560: C:\Users\ptu\a560
