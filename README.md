@@ -14,15 +14,7 @@
 <!-- Conteúdo do seu README -->
 # Nova_CMB_Download_Automatic
 **Download de arquivos PTU da Nova CMB (A550 e A560)**
-<!-- Resto do seu README -->
-</body>
-</html>
 
-
-
-
-# Nova_CMB_Download_Automatic
-**Download de arquivos PTU da Nova CMB (A550 e A560)**
 
 
 ## Primeiro Requisito
@@ -47,3 +39,12 @@ Lembre-se de manter suas credenciais em segurança e não compartilhá-las com o
 - Automação
 - Web scraping
 - Arquivos PTU
+<!-- Resto do seu README -->
+</body>
+</html>
+
+
+
+
+
+
