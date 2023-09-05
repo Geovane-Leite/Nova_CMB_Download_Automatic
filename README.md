@@ -1,18 +1,3 @@
-<!-- Coloque estas metatags no início do seu README -->
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Descrição do seu projeto para SEO.">
-    <meta name="keywords" content="PTU, NOVA CMB, Automação">
-    <meta name="author" content="Seu Nome">
-    <meta name="robots" content="index, follow">
-   
-</head>
-<body>
-<!-- Conteúdo do seu README -->
-
 
 ## Primeiro Requisito
 
@@ -40,9 +25,7 @@ Lembre-se de manter suas credenciais em segurança e não compartilhá-las com o
 - Automação
 - Web scraping
 - Arquivos PTU
-<!-- Resto do seu README -->
-</body>
-</html>
+
 
 
 
