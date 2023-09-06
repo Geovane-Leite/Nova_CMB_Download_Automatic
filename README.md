@@ -4,7 +4,7 @@
 # Nova_CMB_Download_Automatic
 **Download de arquivos PTU da Nova CMB (A550 e A560)**
 
-## Requisitos
+## Requisitos:
 Antes de executar este projeto para baixar arquivos da nova CMB Unimed, siga os seguintes passos:
 
 1. **Navegador Microsoft Edge**: Certifique-se de ter o navegador Microsoft Edge instalado em sua máquina. Você pode baixá-lo em [Microsoft Edge Download](https://www.microsoft.com/pt-br/edge).
