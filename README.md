@@ -11,7 +11,7 @@ Antes de executar este projeto para baixar arquivos da nova CMB Unimed, siga os 
 
 2. **WebDriver do Microsoft Edge**: Baixe o WebDriver do Microsoft Edge compatível com a versão do seu navegador. Você pode encontrá-lo em [Microsoft WebDriver Downloads](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/).
 
-3. **Atualize "credenciais.txt"**: Antes de executar o script, é necessário atualizar o arquivo "credenciais.txt" com as informações de login e senha. Além disso, forneça os diretórios onde os arquivos serão armazenados após a integração no seu sistema. Essa medida visa evitar o download de arquivos já integrados no seu Sistema. A opção de inserir seus dados no arquivo de 'credenciai's é para evitar a necessidade de inserir o login toda vez que executar o script.
+3. **Atualize "credenciais.txt"**: Antes de executar o script, é necessário atualizar o arquivo "credenciais.txt" com as informações de login e senha. Além disso, forneça os diretórios onde os arquivos serão armazenados após a integração no seu sistema. Essa medida visa evitar o download de arquivos já integrados. A opção de inserir seus dados no arquivo de 'credenciai's é para evitar a necessidade de inserir o login toda vez que executar o script.
 
 4. **Execução do Script**: Após configurar os passos acima, você pode executar o script. Uma nova pasta será criada no diretório onde o script está localizado, e todos os arquivos baixados da nova CMB Unimed serão armazenados nela.
 
